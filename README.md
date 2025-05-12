@@ -86,3 +86,13 @@ You must create a `credentials.json` file either by downloading the credentials 
 
    ```bash
    python index.py
+```
+
+Research Paper of this project published in 
+International Journal of Scientific Research in Engineering and Management, 
+  [Cashew-Factory-Coordination-System-integrated-with-Real-Time-Monitoring-and-Automation.pdf](https://github.com/user-attachments/files/20162738/Cashew-Factory-Coordination-System-integrated-with-Real-Time-Monitoring-and-Automation.pdf)   
+
+    
+![researchppr certificate](https://github.com/user-attachments/assets/c7a1bd04-7e20-4f7f-993f-72823abcf63e)
+
+
