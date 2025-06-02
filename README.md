@@ -1,6 +1,12 @@
 # Cashew Factory Coordination System (Desktop)
 A desktop application built using Python Tkinter to organize and maintain the daily activities of a small-scale cashew factory.
 
+
+https://github.com/user-attachments/assets/c68d6b4a-600a-4141-8c41-9ba166277584
+
+
+
+
 ## Activities Included:
 1) Sales details management
 2) Expense details management
